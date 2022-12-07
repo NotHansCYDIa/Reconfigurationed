@@ -12,11 +12,13 @@ Please read this guide if you want to install Rechecked.
 
 <h3>MacOS/Linux (Terminal)</h3>
 
+Make sure you run: 
+
 ```bash
-cd Desktop
+git clone https://github.com/NotHansCYDIa/Rechecked.git
 ```
 
-
+After you run the code go to `Rechecked/Rechecked/app/Program.cs` and <b>manually run the project by pressing `F5` if you're in windows, press `fn + F5` if you're in macOS.</b Then go to `bin/Debug/net7.0
 
 
 
