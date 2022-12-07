@@ -1,26 +1,26 @@
-<h1 align="center">Rechecked</h1>
+<h1 align="center">Reconfigurationed</h1>
 
 <p align="center">
   A custom terminal that runs In C# and was made in VSC on a macOS. <br>
-  The project is currently working in progress. so please be pacient for the next update in Rechecked..
+  The project is currently working in progress. so please be pacient for the next update in Reconfigurationed..
   
 </p>
 <br><br><br>
 
 <h2>Installation Guide</h2>
-Please read this guide if you want to install Rechecked. <br>
+Please read this guide if you want to install Reconfigurationed. <br>
 
 <h3>MacOS/Linux (Terminal)</h3>
 
 Make sure you run: 
 
 ```bash
-git clone https://github.com/NotHansCYDIa/Rechecked.git
+git clone https://github.com/NotHansCYDIa/Reconfigurationed.git
 ```
 
-After you run the code go to `Rechecked/Rechecked/app/Program.cs` and <b>manually run the project by pressing `F5` if you're in windows, press `fn + F5` if you're in macOS.</b> Then go to `bin/Debug/net7.0/app` if the file isnt an executable file then open terminal and run 
+After you run the code go to `Reconfigurationed/Reconfigurationed/app/Program.cs` and <b>manually run the project by pressing `F5` if you're in windows, press `fn + F5` if you're in macOS.</b> Then go to `bin/Debug/net7.0/app` if the file isnt an executable file then open terminal and run 
 ```bash
-cd theDirectoryYouCloned/Rechecked/Rechecked/app/bin/Debug/net7.0
+cd theDirectoryYouCloned/Reconfigurationed/Reconfigurationed/app/bin/Debug/net7.0
 chmod +x app
 ```
 and the file should be an executable file. <br><br><br><br>
