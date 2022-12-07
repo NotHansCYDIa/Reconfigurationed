@@ -18,9 +18,9 @@ Make sure you run:
 git clone https://github.com/NotHansCYDIa/Reconfigurationed.git
 ```
 
-After you run the code go to `Reconfigurationed/Reconfigurationed/app/Program.cs` and <b>manually run the project by pressing `F5` if you're in windows, press `fn + F5` if you're in macOS.</b> Then go to `bin/Debug/net7.0/app` if the file isnt an executable file then open terminal and run 
+After you run the code go to `Reconfigurationed/app/Program.cs` and <b>manually run the project by pressing `F5` if you're in windows, press `fn + F5` if you're in macOS.</b> Then go to `bin/Debug/net7.0/app` if the file isnt an executable file then open terminal and run 
 ```bash
-cd theDirectoryYouCloned/Reconfigurationed/Reconfigurationed/app/bin/Debug/net7.0
+cd theDirectoryYouCloned/Reconfiguratione/app/bin/Debug/net7.0
 chmod +x app
 ```
 and the file should be an executable file. <br><br><br><br>
