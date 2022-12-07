@@ -1,10 +1,25 @@
-<h1 align="center"> Rechecked </h1>
+<h1 align="center">Rechecked</h1>
 
 <p align="center">
   A custom terminal that runs In C# and was made in VSC on a macOS. <br>
   The project is currently working in progress. so please be pacient for the next update in Rechecked..
   
 </p>
+
+
+<h2>Installation Guide</h2>
+Please read this guide if you want to install Rechecked.
+
+<h3>MacOS/Linux (Terminal)</h3>
+
+```bash
+cd Desktop
+```
+
+
+
+
+
 
 
 <h2>Features</h2>
