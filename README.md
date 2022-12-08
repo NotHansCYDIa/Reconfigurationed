@@ -31,7 +31,6 @@ git clone https://github.com/NotHansCYDIa/Reconfigurationed.git
 After you run the code go to `theDirectoryYouCloned/app/Program.cs` and <b>manually run the project by pressing `F5` if you're in windows, press `fn + F5` if you're in macOS.</b> Then go to `bin/Debug/net7.0/app` if the file isnt an executable file then open terminal and run 
 ```bash
 cd theDirectoryYouCloned/app/bin/Debug/net7.0
-# cd theDirectoryYouCloned/app/bin/Debug/net7.0 (If you cloned it without inside another directory)
 chmod +x app
 ```
 and the file should be an executable file. <br><br><br><br>
