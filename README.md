@@ -64,4 +64,4 @@ To use Recheckered in Windows, try to use a virtual machine `e.g. VirtualBox VM`
 - [ ] -info extension
 - [ ] -local extension
 - [ ] -properties extension
-- [ ] -config extension
+- [x] -config extension
