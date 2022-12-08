@@ -4,6 +4,13 @@
   A custom terminal that runs In C# and was made in VSC on a macOS. <br>
   The project is currently working in progress. so please be pacient for the next update in Reconfigurationed..
   
+
+
+  
+  
+  
+  
+  
 </p>
 <br><br><br>
 
