@@ -46,7 +46,7 @@ To use Recheckered in Windows, try to use a virtual machine `e.g. VirtualBox VM`
 
 <h4> Method 2</h4>
 
-Go to `theDirectoryYouCloned/Reconfigurationed/app` and click on `Program.cs` and <b>press `F5` and click on `.NET Framework 4.x (Windows only)`</b>.
+Go to `theDirectoryYouCloned/app` and click on `Program.cs` and <b>press `F5` and click on `.NET Framework 4.x (Windows only)`</b>.
 
 <h4>Other Methods</h4>
 
