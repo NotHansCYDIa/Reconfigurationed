@@ -1,4 +1,7 @@
-<h1 align="center">Reconfigurationed</h1>
+<h1 align="center">Reconfigurationed </h1>
+
+
+<p align="center"><img src="https://img.shields.io/badge/Version-v2.0-informational?style=flat&logo=csharp"> <img src="https://img.shields.io/badge/Compatible%20With-Macbook%2C%20Linux%20%26%20Windows-important"> <img src="https://img.shields.io/badge/License-MIT-inactive"></p>
 
 <p align="center">
   A custom terminal that runs In C# and was made in VSC on a macOS. <br>
