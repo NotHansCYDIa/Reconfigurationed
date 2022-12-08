@@ -37,6 +37,12 @@ and the file should be an executable file. <br><br><br><br>
 
 
 
+<h3>How to fix “app” cannot be opened because it is from an unidentified developer. (macOS only)<h3>
+
+When you're sent an alert after double-clicking the app executable file and the alert says `“app” cannot be opened because it is from an unidentified developer.`, click on System Preferences on your mac then go to `Privacy & Security` then scroll down until you see `Allow applications downloaded from` and toggle `App Store and identified developers`, then double-click the app executable file and go you should see `"app" was blocked from use because it is not from an identified developer` under the `Allow applications downloaded from` section from the `Privacy & Security` tab, now click `Open Anyway` on the message to open the app executable file. if you got a message saying `macOS cannot verify the developer of “app”. Are you sure you want to open it?` when you click `Open Anyway` press `Open` and it should run the app executable file
+
+
+
 
 <h3>Windows (Command Prompt)</h3>
 
