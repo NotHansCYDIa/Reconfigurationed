@@ -41,6 +41,10 @@ and the file should be an executable file. <br><br><br><br>
 
 To use Recheckered in Windows, try to use a virtual machine `e.g. VirtualBox VM`, then run the latest macOS Ventura or Monterey and follow the guide for <b>MacOS/Linux (Terminal)</b>
 
+<h4> Method 2</h4>
+
+Go to `theDirectoryYouCloned/Reconfigurationed/Reconfigurationed/app` and click on `Program.cs` and <b>press `F5` and click on `.NET Framework 4.x (Windows only)`</b>.
+
 <h4>Other Methods</h4>
 
 ```diff
