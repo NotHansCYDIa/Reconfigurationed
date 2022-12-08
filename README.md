@@ -33,6 +33,8 @@ chmod +x app
 ```
 and the file should be an executable file. <br><br><br><br>
 
+<h4>How to fix "Developer</h4>
+
 
 
 <h3>Windows (Command Prompt)</h3>
