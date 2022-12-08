@@ -58,7 +58,7 @@ To use Recheckered in Windows, try to use a virtual machine `e.g. VirtualBox VM`
 - [x] import command
 - [x] clear command
 - [x] reset command
-- [ ] echo command
+- [x] echo command
 - [ ] access command
 - [ ] system command
 - [ ] -info extension
